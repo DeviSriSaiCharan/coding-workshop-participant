@@ -1,0 +1,6 @@
+# Dependencies vendored here by bin/start-dev.sh for LocalStack hot-reload
+psycopg*/
+*.dist-info/
+*.libs/
+.pip_installed
+__pycache__/
